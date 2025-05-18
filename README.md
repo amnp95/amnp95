@@ -41,8 +41,8 @@
 
 ## 📊 GitHub Stats
 
-![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminpakzad&show_icons=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminpakzad&layout=compact)
+![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amnp95&show_icons=true&theme=default&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amnp95&layout=compact)
 
 ---
 
