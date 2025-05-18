@@ -1,23 +1,21 @@
 # 👋 Hi, I'm Amin Pakzad
 
 🎓 Ph.D. Student in Civil Engineering @ University of Washington  
-🔬 Research Focus: Geotechnical Earthquake Engineering | Finite Element Method (FEM) | High-Performance Computing (HPC)  
-💻 Developer of [Femora](https://github.com/aminpakzad/femora): A finite element mesh maker with partitioning and visualization support
+🔬 Research Focus: High-Performance Computing (HPC)  | Finite Element Method (FEM) |  
+💻 Developer of [Femora](https://github.com/amnp95/femora): A finite element mesh maker with partitioning and visualization support
 
 ---
 
 ## 🧠 Interests
-- Finite Element Modeling (Static & Dynamic)
-- Seismic Site Response Analysis
-- Structural and Soil Dynamics
 - Python & C++ for Scientific Computing
 - GPU-accelerated Simulations and WebGPU
+- Finite Element Modeling (Static & Dynamic)
 - Data Visualization using PyVista, VTK, ParaView
 
 ---
 
 ## 🚧 Current Projects
-- 🔧 **[Femora](https://github.com/aminpakzad/femora)** – Mesh generator and partitioner for FEM workflows  
+- 🔧 **[Femora](https://github.com/amnp95/femora)** – Mesh generator and partitioner for FEM workflows  
 - 🌍 **Seismic Transfer Function Toolkit** – Python tool for computing site response using layered soil models  
 - 🧪 **WebGPU FEM Visualization** – High-performance GPU visualization of particle systems and wave propagation
 
@@ -27,19 +25,17 @@
 
 | Project | Description |
 |--------|-------------|
-| [**femora**](https://github.com/aminpakzad/femora) | ⚙️ Structural FEM meshmaker + domain partitioning for supercomputers |
-| [**transferFunction1.py**](https://github.com/aminpakzad/transferFunction1.py) | 🌊 Analytical site response function for layered soil using matrix method |
-| [**waveGPU**](https://github.com/aminpakzad/waveGPU) | 💡 GPU-based wave propagation visualization using WebGPU |
-| [**mesh-logo-design**](https://github.com/aminpakzad/mesh-logo-design) | 🎨 FEM-based logo and mesh visualization designs |
+| [**femora**](https://github.com/amnp95/femora) | ⚙️ Structural FEM meshmaker + domain partitioning for supercomputers |
+
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: pakzada@uw.edu  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aminpakzad)  
+- 📧 Email: amnp95@uw.edu
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amin-pakzad-8a05b0127/)  
 - 🌍 Website: _coming soon_  
-- 🧾 [CV (PDF)](https://yourwebsite.com/cv.pdf) <!-- Update when ready -->
+<!-- - 🧾 [CV (PDF)](https://yourwebsite.com/cv.pdf) Update when ready -->
 
 ---
 
