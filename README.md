@@ -99,7 +99,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amnp95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Amin Pakzad GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnp95&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Amin Pakzad top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnp95&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,CSS" width="49%" alt="Amin Pakzad top languages"/>
 </p>
 
 ---
